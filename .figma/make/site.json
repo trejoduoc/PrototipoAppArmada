@@ -1,0 +1,10 @@
+{
+  "description": "Efficiently manage and book sports facilities at the Military School of Chile with a user-friendly interface for cadets, partners, and administrators.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
