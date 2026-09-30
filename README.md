@@ -85,4 +85,4 @@ El prototipo móvil diseñado para iPhone incluye **5 pantallas totalmente naveg
 ## 🔗 Enlace al Prototipo
 
 Puedes interactuar con el prototipo navegable directamente en Figma:
-👉 **[Ver Prototipo Interactivo en Figma](https://figma.com)** *(Reemplaza este enlace con la URL de tu archivo en Figma)*
+👉 **[Ver Prototipo Interactivo en Figma](https://finish-joy-28748733.figma.site/)** *(Reemplaza este enlace con la URL de tu archivo en Figma)*
